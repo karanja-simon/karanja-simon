@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karanja-simon
-- 👀 I’m interested in biulding APIs with Java/NodeJs
+- 👀 I’m interested in biulding APIs with Java/Node.js
 - 👀 I also dev on React platform
 - 🌱 I’m currently learning Java SpringBoot
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on anything Node.js/React or Java related
 - 📫 Reach me @[https://skaranja.work](https://skaranja.work)
 
 <!---
